@@ -2,11 +2,11 @@
 Integrating Competitive Framework into Differential Evolution: Comprehensive Performance Analysis and Application in Brain Tumor Detection
 
 ## Highlights
-• We present an efficient CFDE to handle complex optimization problems.
-• CFDE consists of three tailored components: (1) competitive framework, (2) DE/loser-to-best/loser-to-winner mutation scheme, and (3) random memory initialization.
-• We conduct rigorous numerical experiments in CEC2017, CEC2020, CEC2022, and eight engineering problems to investigate the performance of CFDE against eleven state-of-the-art optimizers.
-• We conduct sensitivity analysis and ablation experiments to comprehensively investigate the performance of CFDE.
-• We further propose the DenseNet-CFDE-ELM model to detect brain tumors in MRI scans.
+• We present an efficient CFDE to handle complex optimization problems.  
+• CFDE consists of three tailored components: (1) competitive framework, (2) DE/loser-to-best/loser-to-winner mutation scheme, and (3) random memory initialization.  
+• We conduct rigorous numerical experiments in CEC2017, CEC2020, CEC2022, and eight engineering problems to investigate the performance of CFDE against eleven state-of-the-art optimizers.  
+• We conduct sensitivity analysis and ablation experiments to comprehensively investigate the performance of CFDE.  
+• We further propose the DenseNet-CFDE-ELM model to detect brain tumors in MRI scans.  
 
 
 ## Abstract
