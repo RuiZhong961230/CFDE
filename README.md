@@ -25,4 +25,9 @@ note = {Accept}
 }
 
 ## Datasets and Libraries
-CEC benchmarks and Engineering problems are provided by opfunu and enoppy libraries, respectively, deep learning models are supported by the PyTorch library, and the brain tumor dataset is downloaded from Kaggle https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans/data.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively, Deep learning models are provided by the Pytorch==2.1.2 library, and the brain tumor dataset is downloaded from Kaggle https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans/data.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[a]iic.hokudai.ac.jp
+
+
